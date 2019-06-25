@@ -4,10 +4,10 @@ import bg  from './img/bg-app.png';
 
 const OneRamp = () => {
   return (
-    <section className="one-ramp text-white">
+    <section className="one-ramp mt-32 text-white">
       <div
         style={{backgroundImage:`url(${bg})`}}
-        className="container bg-primary py-20 mx-auto rounded-lg flex justify-center bg-cover">
+        className="container bg-primary py-20 mx-auto rounded-lg flex justify-center bg-cover shadow-soft-lg">
         <div className="content-container mx-auto flex items-center">
           <img src={oneRampImg} alt="1Ramp App"/>
           <div className="ml-8 meta-container max-w-lg">

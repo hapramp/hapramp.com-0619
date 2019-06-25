@@ -11,7 +11,7 @@ const Hero = () => {
           </div>
           <div className="hero-cta mt-16">
             <input className="bg-grey250 px-6 py-4 w-96 outline-none rounded rounded-r-none" type="email" placeholder="Follow the development"/>
-            <input className='bg-primary text-white px-6 py-4 rounded rounded-l-none' value="Get Updates" type="submit"/>
+            <input className='bg-primary text-white px-6 py-4 rounded rounded-l-none cursor-pointer' value="Get Updates" type="submit"/>
           </div>
         </div>
       </div>

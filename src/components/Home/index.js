@@ -4,6 +4,8 @@ import Hero from './Hero';
 import Feature from './Feature'
 import Quote from './Quote'
 import OneRamp from './OneRamp'
+import Team from './Team'
+import Mentors from './Mentors'
 
 const index = () => {
   return (
@@ -12,6 +14,8 @@ const index = () => {
      <Feature />
      <Quote />
      <OneRamp />
+     <Team />
+     <Mentors />
    </main>
   );
 };
