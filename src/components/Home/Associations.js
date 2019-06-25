@@ -24,7 +24,7 @@ const Associations = () => {
   return (
     <section className="mt-16">
       <div className="max-w-5xl mx-auto">
-        <div className="font-display text-3xl text-primary font-bold">Associations</div>
+        <h2 className="font-display text-4xl text-primary font-bold">Associations</h2>
         <div className="flex flex-wrap mt-20">
           {associations.map(asso => {
             return (

@@ -7,7 +7,7 @@ const Team = () => {
   return (
     <section className="mt-32">
       <div className="max-w-5xl mx-auto">
-        <div className="font-display text-3xl text-primary font-bold">Meet the Team</div>
+        <h2 className="font-display text-4xl text-primary font-bold">Meet the Team</h2>
         <div className="flex flex-wrap -ml-16 mt-20">
           {MemberData.map(member => {
             return (<Member member={member}/>)

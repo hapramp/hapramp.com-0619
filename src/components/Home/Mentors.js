@@ -17,7 +17,7 @@ const Mentors = () => {
   return (
     <section className="mentors mt-20">
       <div className="max-w-5xl mx-auto">
-        <div className="font-display text-3xl text-primary font-bold">Mentor</div>
+        <h2 className="font-display text-4xl text-primary font-bold">Mentor</h2>
         <div className="flex flex-wrap -ml-16 mt-20">
           {mentors.map(member => {
             return (<Member member={member}/>)

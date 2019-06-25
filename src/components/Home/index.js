@@ -7,6 +7,7 @@ import OneRamp from './OneRamp'
 import Team from './Team'
 import Mentors from './Mentors'
 import Associations from './Associations'
+import Hiring from './Hiring'
 
 const index = () => {
   return (
@@ -18,6 +19,7 @@ const index = () => {
      <Team />
      <Mentors />
      <Associations />
+     <Hiring />
    </main>
   );
 };
