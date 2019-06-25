@@ -17,12 +17,12 @@ const hiringData = [
 
 const Hiring = () => {
   return (
-    <section className="hiring mt-32">
+    <section className="hiring mt-32 z-10 relative">
       <div
         className="container flex bg-white mx-auto rounded-lg flex bg-cover shadow-soft-lg justify-between px-24 py-20 ">
         <div className="mr-8 meta-container max-w-xl">
           <h2 className="font-display text-4xl text-primary font-bold">We’re hiring</h2>
-          <div className="mt-8">
+          <div className="mt-10">
             {hiringData.map(data => {
               return (
                 <a

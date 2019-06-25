@@ -8,6 +8,7 @@ import Team from './Team'
 import Mentors from './Mentors'
 import Associations from './Associations'
 import Hiring from './Hiring'
+import Footer from './Footer'
 
 const index = () => {
   return (
@@ -20,6 +21,7 @@ const index = () => {
      <Mentors />
      <Associations />
      <Hiring />
+     <Footer />
    </main>
   );
 };
