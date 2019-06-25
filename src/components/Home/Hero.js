@@ -2,7 +2,7 @@ import React from 'react';
 
 const Hero = () => {
   return (
-    <section className="hero my-48">
+    <section className="hero mt-48 mb-24">
       <div className="max-w-5xl mx-auto">
         <div className="hero-container max-w-xl">
           <h1 className="hero-title font-display text-6xl font-bold text-primary">Meet Asteria Protocol</h1>
