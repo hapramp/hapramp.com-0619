@@ -1,6 +1,7 @@
 {
   "name": "hapramp-0619",
   "version": "0.1.0",
+  "homepage": "https://ansarimofid.in/hapramp-0619",
   "private": true,
   "dependencies": {
     "react": "^16.8.6",
@@ -8,12 +9,15 @@
   },
   "devDependencies": {
     "autoprefixer": "^9.6.0",
+    "gh-pages": "^2.0.1",
     "npm-run-all": "^4.1.5",
     "postcss-cli": "^6.1.2",
     "react-scripts": "3.0.1",
     "tailwindcss": "^1.0.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "npm-run-all --parallel watch:css start:react",
     "build": "npm-run-all build:css build:react",
     "build:css": "postcss src/tailwind.css -o src/index.css",
