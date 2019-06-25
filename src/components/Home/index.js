@@ -3,6 +3,7 @@ import './Hero';
 import Hero from './Hero';
 import Feature from './Feature'
 import Quote from './Quote'
+import OneRamp from './OneRamp'
 
 const index = () => {
   return (
@@ -10,6 +11,7 @@ const index = () => {
      <Hero />
      <Feature />
      <Quote />
+     <OneRamp />
    </main>
   );
 };
