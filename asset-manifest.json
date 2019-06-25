@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/hapramp-0619/static/css/main.594bb6e7.chunk.css",
+    "main.js": "/hapramp-0619/static/js/main.107a7bb1.chunk.js",
+    "main.js.map": "/hapramp-0619/static/js/main.107a7bb1.chunk.js.map",
+    "runtime~main.js": "/hapramp-0619/static/js/runtime~main.542528f6.js",
+    "runtime~main.js.map": "/hapramp-0619/static/js/runtime~main.542528f6.js.map",
+    "static/js/2.e3523a7a.chunk.js": "/hapramp-0619/static/js/2.e3523a7a.chunk.js",
+    "static/js/2.e3523a7a.chunk.js.map": "/hapramp-0619/static/js/2.e3523a7a.chunk.js.map",
+    "index.html": "/hapramp-0619/index.html",
+    "precache-manifest.f8e0b12b40d7d300461b416c85213a38.js": "/hapramp-0619/precache-manifest.f8e0b12b40d7d300461b416c85213a38.js",
+    "service-worker.js": "/hapramp-0619/service-worker.js",
+    "static/css/main.594bb6e7.chunk.css.map": "/hapramp-0619/static/css/main.594bb6e7.chunk.css.map",
+    "static/media/ankit_hapramp.jpg": "/hapramp-0619/static/media/ankit_hapramp.958a01f7.jpg",
+    "static/media/bg-app.png": "/hapramp-0619/static/media/bg-app.5b4b33fa.png",
+    "static/media/hiring.svg": "/hapramp-0619/static/media/hiring.d4f66350.svg",
+    "static/media/iiitv.png": "/hapramp-0619/static/media/iiitv.2d1404ab.png",
+    "static/media/jaspreet.jpg": "/hapramp-0619/static/media/jaspreet.eed91d14.jpg",
+    "static/media/linkedin.svg": "/hapramp-0619/static/media/linkedin.271d6b7f.svg",
+    "static/media/mofid_hapramp.jpg": "/hapramp-0619/static/media/mofid_hapramp.ed268187.jpg",
+    "static/media/nascomm.png": "/hapramp-0619/static/media/nascomm.856ad858.png",
+    "static/media/oneRamp.png": "/hapramp-0619/static/media/oneRamp.3c9b8412.png",
+    "static/media/pratyush_hapramp.jpg": "/hapramp-0619/static/media/pratyush_hapramp.5169dcad.jpg",
+    "static/media/rajat_hapramp.jpg": "/hapramp-0619/static/media/rajat_hapramp.b96f5b57.jpg",
+    "static/media/twitter.svg": "/hapramp-0619/static/media/twitter.ef0820dc.svg",
+    "static/media/vikram_hapramp.jpg": "/hapramp-0619/static/media/vikram_hapramp.752dbd7c.jpg"
+  }
+}
