@@ -1,26 +1,37 @@
 import React from 'react';
 
-import Member from './Member';
+import iiitv from './img/associations/iiitv.png';
+import huddle from './img/associations/huddle.png';
+import nasscom from './img/associations/nascomm.png';
 
-import jaspreet from './img/jaspreet.jpg'
-
-const mentors = [
+const associations = [
   {
-    name: 'Jaspreet Bindra',
-    designation: '',
-    link: "https://www.linkedin.com/in/jaspreetbindra/",
-    pic: jaspreet
+    name: 'Huddle',
+    link: 'http://huddle.work/',
+    pic: huddle
+  }, {
+    name: 'Nasscom',
+    link: 'Nasscom 10k Startups',
+    pic: nasscom
+  }, {
+    name: 'IIITV',
+    link: 'http://iiitvadodara.ac.in/',
+    pic: iiitv
   }
-];
+]
 
 const Associations = () => {
   return (
-    <section className="team mt-20">
-      <div className="team-container max-w-5xl mx-auto">
-        <div className="section-title font-display text-3xl text-primary font-bold">Mentor</div>
-        <div className="team-member-container flex flex-wrap -ml-16 mt-20">
-          {mentors.map(member => {
-            return (<Member member={member}/>)
+    <section className="mt-16">
+      <div className="max-w-5xl mx-auto">
+        <div className="font-display text-3xl text-primary font-bold">Associations</div>
+        <div className="flex flex-wrap mt-20">
+          {associations.map(asso => {
+            return (
+              <a href={asso.link}  target="__new" className="mr-8">
+                <img src={asso.pic} alt="Huddle Startup"/>
+              </a>
+            )
           })
 }
         </div>

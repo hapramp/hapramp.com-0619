@@ -6,6 +6,7 @@ import Quote from './Quote'
 import OneRamp from './OneRamp'
 import Team from './Team'
 import Mentors from './Mentors'
+import Associations from './Associations'
 
 const index = () => {
   return (
@@ -16,6 +17,7 @@ const index = () => {
      <OneRamp />
      <Team />
      <Mentors />
+     <Associations />
    </main>
   );
 };
