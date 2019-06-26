@@ -11,7 +11,7 @@ const associations = [
     pic: huddle
   }, {
     name: 'Nasscom',
-    link: 'Nasscom 10k Startups',
+    link: 'http://www.10000startups.com/',
     pic: nasscom
   }, {
     name: 'IIITV',

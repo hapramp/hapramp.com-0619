@@ -15,8 +15,8 @@ const Quote = () => {
         </span>
         <span className="-mt-8 ml-8 inline-block">
           Your data is more worth than you might expect, in the future, it might become
-          your lifeline.<span className="font-display font-bold">
-            — Jaron Lanier</span>
+          your lifeline.<a href="https://en.wikipedia.org/wiki/Jaron_Lanier" className="font-display font-bold" target="__new">
+            — Jaron Lanier</a>
         </span>
       </div>
     </section>

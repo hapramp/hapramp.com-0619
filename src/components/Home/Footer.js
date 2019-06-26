@@ -24,15 +24,15 @@ const Footer = () => {
         <div className="mt-10 md:mt-0 md:ml-4">
           <h3 className="text-2xl font-display font-bold">Useful links</h3>
           <div className="flex flex-col mt-4 text-xl">
-            <a href="!#" className="mb-2">Privacy Policy</a>
-            <a href="!#">1Ramp.io</a>
+            {/* <a href="!#" className="mb-2">Privacy Policy</a> */}
+            <a href="http://1ramp.io" target="__new">1Ramp.io</a>
           </div>
         </div>
 
         <div className="mt-10 md:mt-0 md:ml-4">
           <div className="flex">
-            <a href="!#" className="mr-6"><img src={twitter} alt="Twiiter Social Icon"/></a>
-            <a href="!#"><img src={linkedIn} alt="LinkedIn Social Icon"/></a>
+            <a href="https://twitter.com/hapramp" className="mr-6"  target="__new"><img src={twitter} alt="Twiiter Social Icon"/></a>
+            <a href="https://www.linkedin.com/company/hapramp/" target="__new"><img src={linkedIn} alt="LinkedIn Social Icon"/></a>
           </div>
           <div className="flex flex-col mt-4 text-xl">
             <a href="mailto:hi@hapramp.com" className="mb-2">hi@hapramp.com</a>

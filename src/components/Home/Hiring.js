@@ -4,14 +4,8 @@ import illustration from './img/hiring.svg';
 
 const hiringData = [
   {
-    position: 'UI/UX Designer',
-    link: 'https://linkedin.com/mynetwork/'
-  }, {
-    position: 'HR Manager',
-    link: 'https://linkedin.com/mynetwork/'
-  }, {
-    position: 'Illustrator',
-    link: 'https://linkedin.com/mynetwork/'
+    position: 'Frontend Engineer',
+    link: 'https://docs.google.com/document/d/1GnOUghgOTPTGV8EO2Z__-2LmMfreTpcXCcIAYiRtdYE/edit?usp=sharing)'
   }
 ]
 
@@ -28,7 +22,9 @@ const Hiring = () => {
                 <a
                   href={data.link}
                   className='uppercase bg-white text-primary px-6 py-4 mt-8 rounded cursor-pointer inline-block border border-primary border-dashed mr-2 ml-2 sm:mr-8 sm:ml-0'
-                  value="Get Updates">
+                  value="Get Updates"
+                  target="__new"
+                  >
                   {data.position}
                 </a>
               )
@@ -36,9 +32,11 @@ const Hiring = () => {
 }
           </div>
           <a
-            href="!#"
+            href="https://angel.co/company/hapramp/jobs"
             className='bg-primary text-white px-6 py-4 mt-8 rounded cursor-pointer inline-block'
-            value="Get Updates">
+            value="Get Updates"
+            target="__new"
+            >
             Apply on Angelist
           </a>
         </div>
