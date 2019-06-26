@@ -1,8 +1,10 @@
 {
   "name": "hapramp-0619",
   "version": "0.1.0",
-  "homepage": "https://ansarimofid.in/hapramp-0619",
+  "homepage": "https://hapramp.com",
   "private": true,
+  "description": "Repository for hapramp.com website",
+  "author": "Mofid Ansari",
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6"
