@@ -42,7 +42,7 @@ const Hiring = () => {
             Apply on Angelist
           </a>
         </div>
-        <img className="hidden md:visible md:w-64 lg:max-w-xs lg:w-84" src={illustration} alt="1Ramp App"/>
+        <img className="hidden lg:inline-block md:w-64 lg:max-w-xs lg:w-84" src={illustration} alt="1Ramp App"/>
       </div>
     </section>
   );
