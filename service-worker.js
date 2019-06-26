@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/hapramp-0619/precache-manifest.c9f4f3ac8b58cadfae3b0af6002dc3d2.js"
+  "/hapramp-0619/precache-manifest.61a61215c10834ec36dfc5bfaa107f5c.js"
 );
 
 self.addEventListener('message', (event) => {
