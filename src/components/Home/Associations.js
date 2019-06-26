@@ -28,7 +28,7 @@ const Associations = () => {
         <div className="flex flex-wrap justify-center sm:justify-start mt-20">
           {associations.map(asso => {
             return (
-              <a href={asso.link}  target="__new" className="sm:mr-8 mt-5 sm:mt-0">
+              <a key={asso.link} href={asso.link}  target="__new" className="sm:mr-8 mt-5 sm:mt-0">
                 <img src={asso.pic} alt="Huddle Startup"/>
               </a>
             )

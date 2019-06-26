@@ -10,7 +10,7 @@ const Team = () => {
         <h2 className="font-display text-4xl text-primary font-bold">Meet the Team</h2>
         <div className="flex flex-wrap justify-center sm:justify-start -ml-16 mt-20">
           {MemberData.map(member => {
-            return (<Member member={member}/>)
+            return (<Member key={member.link} member={member}/>)
           })
           }
         </div>

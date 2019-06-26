@@ -24,6 +24,7 @@ const Hiring = () => {
                   className='uppercase bg-white text-primary px-6 py-4 mt-8 rounded cursor-pointer inline-block border border-primary border-dashed mr-2 ml-2 sm:mr-8 sm:ml-0'
                   value="Get Updates"
                   target="__new"
+                  key={data.link}
                   >
                   {data.position}
                 </a>
