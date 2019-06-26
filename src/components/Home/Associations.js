@@ -22,13 +22,13 @@ const associations = [
 
 const Associations = () => {
   return (
-    <section className="mt-16">
+    <section className="mt-16 px-4 sm:px-8 md:px-10 text-center sm:text-left">
       <div className="max-w-5xl mx-auto">
         <h2 className="font-display text-4xl text-primary font-bold">Associations</h2>
-        <div className="flex flex-wrap mt-20">
+        <div className="flex flex-wrap justify-center sm:justify-start mt-20">
           {associations.map(asso => {
             return (
-              <a href={asso.link}  target="__new" className="mr-8">
+              <a href={asso.link}  target="__new" className="sm:mr-8 mt-5 sm:mt-0">
                 <img src={asso.pic} alt="Huddle Startup"/>
               </a>
             )

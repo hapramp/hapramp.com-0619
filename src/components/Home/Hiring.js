@@ -17,17 +17,17 @@ const hiringData = [
 
 const Hiring = () => {
   return (
-    <section className="hiring mt-32 z-10 relative">
+    <section className="hiring text-center sm:text-left mt-32 z-10 relative px-6 md:px-4">
       <div
-        className="container flex bg-white mx-auto rounded-lg flex bg-cover shadow-soft-lg justify-between px-24 py-20 ">
-        <div className="mr-8 meta-container max-w-xl">
+        className="container flex flex-col md:flex-row bg-white mx-auto sm:rounded-lg flex bg-cover sm:shadow-soft-lg justify-between sm:px-24 sm:py-20 ">
+        <div className="md:mr-8 meta-container max-w-xl">
           <h2 className="font-display text-4xl text-primary font-bold">We’re hiring</h2>
           <div className="mt-10">
             {hiringData.map(data => {
               return (
                 <a
                   href={data.link}
-                  className='uppercase bg-white text-primary px-6 py-4 mt-8 rounded cursor-pointer inline-block border border-primary border-dashed mr-8'
+                  className='uppercase bg-white text-primary px-6 py-4 mt-8 rounded cursor-pointer inline-block border border-primary border-dashed mr-2 ml-2 sm:mr-8 sm:ml-0'
                   value="Get Updates">
                   {data.position}
                 </a>
@@ -42,7 +42,7 @@ const Hiring = () => {
             Apply on Angelist
           </a>
         </div>
-        <img className="max-w-xs" src={illustration} alt="1Ramp App"/>
+        <img className="hidden md:visible md:w-64 lg:max-w-xs lg:w-84" src={illustration} alt="1Ramp App"/>
       </div>
     </section>
   );

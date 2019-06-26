@@ -3178,12 +3178,20 @@ video {
   min-width: 0;
 }
 
+.min-w-88 {
+  min-width: 22rem;
+}
+
 .min-w-120 {
   min-width: 30rem;
 }
 
 .min-w-full {
   min-width: 100%;
+}
+
+.min-w-auto {
+  min-width: auto;
 }
 
 .object-contain {
@@ -7393,12 +7401,20 @@ video {
     min-width: 0;
   }
 
+  .sm\:min-w-88 {
+    min-width: 22rem;
+  }
+
   .sm\:min-w-120 {
     min-width: 30rem;
   }
 
   .sm\:min-w-full {
     min-width: 100%;
+  }
+
+  .sm\:min-w-auto {
+    min-width: auto;
   }
 
   .sm\:object-contain {
@@ -11609,12 +11625,20 @@ video {
     min-width: 0;
   }
 
+  .md\:min-w-88 {
+    min-width: 22rem;
+  }
+
   .md\:min-w-120 {
     min-width: 30rem;
   }
 
   .md\:min-w-full {
     min-width: 100%;
+  }
+
+  .md\:min-w-auto {
+    min-width: auto;
   }
 
   .md\:object-contain {
@@ -15825,12 +15849,20 @@ video {
     min-width: 0;
   }
 
+  .lg\:min-w-88 {
+    min-width: 22rem;
+  }
+
   .lg\:min-w-120 {
     min-width: 30rem;
   }
 
   .lg\:min-w-full {
     min-width: 100%;
+  }
+
+  .lg\:min-w-auto {
+    min-width: auto;
   }
 
   .lg\:object-contain {
@@ -20041,12 +20073,20 @@ video {
     min-width: 0;
   }
 
+  .xl\:min-w-88 {
+    min-width: 22rem;
+  }
+
   .xl\:min-w-120 {
     min-width: 30rem;
   }
 
   .xl\:min-w-full {
     min-width: 100%;
+  }
+
+  .xl\:min-w-auto {
+    min-width: auto;
   }
 
   .xl\:object-contain {

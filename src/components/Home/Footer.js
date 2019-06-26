@@ -5,9 +5,9 @@ import twitter from './img/social/twitter.svg';
 
 const Footer = () => {
   return (
-    <footer className="bg-primary pt-56 pb-24 -mt-24 z-0 relative text-white">
-      <div className="max-w-5xl mx-auto flex justify-between">
-        <div className="max-w-lg">
+    <footer className="bg-primary pt-24 sm:pt-56 pb-24 mt-32 sm:-mt-24 z-0 relative text-white px-4 sm:px-8 md:px-10">
+      <div className="max-w-5xl mx-auto flex-col md:flex-row flex md:justify-between">
+        <div className="md:max-w-md lg:max-w-lg">
           <h2 className="font-display text-5xl font-bold">HAPRAMP STUDIO</h2>
           <p className="mt-4">
             Hapramp Studio is an Internet company working on the Internet’s biggest
@@ -21,18 +21,18 @@ const Footer = () => {
           </p>
         </div>
 
-        <div>
+        <div className="mt-10 md:mt-0 md:ml-4">
           <h3 className="text-2xl font-display font-bold">Useful links</h3>
           <div className="flex flex-col mt-4 text-xl">
-            <a href="#" className="mb-2">Privacy Policy</a>
-            <a href="#">1Ramp.io</a>
+            <a href="!#" className="mb-2">Privacy Policy</a>
+            <a href="!#">1Ramp.io</a>
           </div>
         </div>
 
-        <div>
+        <div className="mt-10 md:mt-0 md:ml-4">
           <div className="flex">
-            <a href="#" className="mr-6"><img src={twitter} alt="Twiiter Social Icon"/></a>
-            <a href="#"><img src={linkedIn} alt="LinkedIn Social Icon"/></a>
+            <a href="!#" className="mr-6"><img src={twitter} alt="Twiiter Social Icon"/></a>
+            <a href="!#"><img src={linkedIn} alt="LinkedIn Social Icon"/></a>
           </div>
           <div className="flex flex-col mt-4 text-xl">
             <a href="mailto:hi@hapramp.com" className="mb-2">hi@hapramp.com</a>

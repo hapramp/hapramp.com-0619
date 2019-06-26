@@ -2,7 +2,7 @@ import React from 'react';
 
 const Quote = () => {
   return (
-    <section className="quote mt-40">
+    <section className="quote mt-40 px-6 sm:px-8 md:px-10">
       <div className="max-w-4xl mx-auto font-light text-4xl">
         <span className="">
           <svg width="117" height="107" xmlns="http://www.w3.org/2000/svg">

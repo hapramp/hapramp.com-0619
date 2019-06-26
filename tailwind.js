@@ -21,7 +21,9 @@ module.exports = {
        '120':'30'
       },
       minWidth: {
-        '120':'30rem'
+        '88':'22rem',
+        '120':'30rem',
+        auto:'auto'
       },
       boxShadow:{
         'soft-lg':'0 0 40px 0 rgba(0,0,0,0.12)'

@@ -2,12 +2,13 @@ import React from 'react';
 
 const Feature = () => {
   return (
-    <section className="feature bg-grey250 py-20">
+    <section className="feature bg-grey250 py-20 px-4 sm:px-0">
 
-      <div className="card-container flex overflow-x-auto">
+      <div
+        className="feature-card-container flex-col sm:flex-row flex items-center sm:items-stretch overflow-x-auto sm:pl-8 md:pl-10">
         {/* Card 1 */}
         <div
-          className="feat-card p-10 bg-primary max-w-md min-w-120 text-white rounded">
+          className="feat-card p-10 bg-primary max-w-md sm:min-w-120 text-white rounded">
           <h2 className='card-title font-display text-3xl'>Asteria is for Applications</h2>
           <div className="card-body mt-6">
             <p>
@@ -26,7 +27,7 @@ const Feature = () => {
 
         {/* card 2 */}
         <div
-          className="feat-card p-10 bg-variant1 max-w-md min-w-120 text-white ml-6 rounded">
+          className="feat-card mt-4 sm:mt-0 p-10 bg-variant1 max-w-md sm:min-w-120 text-white sm:ml-6 rounded">
           <h2 className='card-title font-display text-3xl'>Privacy Can Be Simple</h2>
           <div className="card-body mt-6">
             <p>
@@ -45,7 +46,7 @@ const Feature = () => {
         </div>
 
         <div
-          className="feat-card p-10 bg-variant2 max-w-md min-w-120 text-white mx-6 rounded">
+          className="feat-card mt-4 sm:mt-0 p-10 bg-variant2 max-w-md sm:min-w-120 text-white sm:mx-6 rounded">
           <h2 className='card-title font-display text-3xl'>Every App Can Monetize Data</h2>
           <div className="card-body mt-6">
             <p>
