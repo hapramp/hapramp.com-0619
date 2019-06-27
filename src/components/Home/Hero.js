@@ -12,8 +12,7 @@ const Hero = () => {
           <h1
             className="hero-title font-display text-5xl sm:text-6xl font-bold text-primary">Meet Asteria Protocol</h1>
           <div className="hero-subtitle text-xl text-grey70 mt-4">
-            New standard to treat and store data with encryption that makes privacy and
-            security accessible to all.
+          New standard to treat and store user data that makes privacy and security accessible to all.
           </div>
           {submitted
             ? <div className="mt-6 text-variant2 font-bold">Thank you for signing up for updates on Asteria Protocol.</div>

@@ -38,7 +38,7 @@ const Hiring = () => {
             value="Get Updates"
             target="__new"
             >
-            Apply on Angelist
+            Apply on AngelList
           </a>
         </div>
         <img className="hidden lg:inline-block md:w-64 lg:max-w-xs lg:w-84" src={illustration} alt="1Ramp App"/>
