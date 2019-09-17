@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4e609065.chunk.css",
+    "main.js": "/static/js/main.305d98fd.chunk.js",
+    "main.js.map": "/static/js/main.305d98fd.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.f674805f.chunk.js": "/static/js/2.f674805f.chunk.js",
+    "static/js/2.f674805f.chunk.js.map": "/static/js/2.f674805f.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.2ddaed1103e8879f07eff913e5a1c7f2.js": "/precache-manifest.2ddaed1103e8879f07eff913e5a1c7f2.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.4e609065.chunk.css.map": "/static/css/main.4e609065.chunk.css.map",
+    "static/media/ankit_hapramp.jpg": "/static/media/ankit_hapramp.958a01f7.jpg",
+    "static/media/bg-app.png": "/static/media/bg-app.5b4b33fa.png",
+    "static/media/hiring.svg": "/static/media/hiring.d4f66350.svg",
+    "static/media/iiitv.png": "/static/media/iiitv.2d1404ab.png",
+    "static/media/jaspreet.jpg": "/static/media/jaspreet.eed91d14.jpg",
+    "static/media/linkedin.svg": "/static/media/linkedin.271d6b7f.svg",
+    "static/media/mofid_hapramp.jpg": "/static/media/mofid_hapramp.ed268187.jpg",
+    "static/media/nascomm.png": "/static/media/nascomm.856ad858.png",
+    "static/media/oneRamp.png": "/static/media/oneRamp.8e9f56a5.png",
+    "static/media/pratyush_hapramp.jpg": "/static/media/pratyush_hapramp.5169dcad.jpg",
+    "static/media/rajat_hapramp.jpg": "/static/media/rajat_hapramp.b96f5b57.jpg",
+    "static/media/twitter.svg": "/static/media/twitter.ef0820dc.svg",
+    "static/media/vikram_hapramp.jpg": "/static/media/vikram_hapramp.752dbd7c.jpg"
+  }
+}
