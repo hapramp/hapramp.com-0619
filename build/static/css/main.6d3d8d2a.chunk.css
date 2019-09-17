@@ -1,0 +1,2 @@
+@tailwind base;@tailwind components;@tailwind utilities;.feature-card-container::-webkit-scrollbar{display:none}section.hero .form-feedback,section.hero form.submitted{display:none}section.hero .form-feedback.submitted{display:block}@media (min-width:1064px){.feature-card-container{padding-left:calc((100vw - 1024px)/2)}}
+/*# sourceMappingURL=main.6d3d8d2a.chunk.css.map */
