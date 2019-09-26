@@ -5,7 +5,7 @@ import MemberData from './memberData';
 
 const Team = () => {
   return (
-    <section className="text-center sm:text-left mt-32 px-4 sm:px-8 md:px-10">
+    <section className="text-center sm:text-left mt-20 sm:mt-32 md:mt-40 px-4 sm:px-8 md:px-10">
       <div className="max-w-4xl mx-auto">
         <h2 className="text-xl uppercase font-bold">Meet the Team</h2>
         <div className="flex flex-wrap justify-center sm:justify-start -ml-16 mt-20">
