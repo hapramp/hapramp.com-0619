@@ -3,7 +3,7 @@ import {NavLink} from 'react-router-dom';
 
 const Header = () => {
   return (
-    <header className="py-4 px-4 sm:px-8 md:px-10">
+    <header className="py-4 px-4 sm:px-8 md:px-10 navbar">
       <div className="max-w-5xl mx-auto flex-col md:flex-row flex md:justify-between items-center">
       <div className="md:max-w-md lg:max-w-lg">
           <h2 className="font-display text-2xl font-bold"><NavLink to="/">HAPRAMP</NavLink></h2>

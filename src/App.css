@@ -14,6 +14,10 @@ section.hero .form-feedback.submitted {
   display: block;
 }
 
+.navbar a.active {
+  color: black;
+}
+
 @media (min-width: 1064px) {
   .feature-card-container {
     padding-left: calc((100vw - 1024px)/2);
