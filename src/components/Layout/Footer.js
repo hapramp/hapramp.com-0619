@@ -15,9 +15,9 @@ const Footer = () => {
         <div className="mt-6 sm:mt-0">
           <div className="flex items-center">
             <a href="mailto:hi@hapramp.com" className="mr-6">hi@hapramp.com</a>
-            <a href="https://twitter.com/hapramp" className="mr-6"  target="__new"><img src={twitter} alt="Twiiter Social Icon"/></a>
-            <a href="https://www.linkedin.com/company/hapramp/"  className="mr-6" target="__new"><img src={linkedIn} alt="LinkedIn Social Icon"/></a>
-            <a href="https://medium.com/hapramp" target="__new"><img src={medium} alt="Medium Social Icon"/></a>
+            <a href="https://twitter.com/hapramp" className="mr-6"  target="_blank"><img src={twitter} alt="Twiiter Social Icon"/></a>
+            <a href="https://www.linkedin.com/company/hapramp/"  className="mr-6" target="_blank"><img src={linkedIn} alt="LinkedIn Social Icon"/></a>
+            <a href="https://medium.com/hapramp" target="_blank"><img src={medium} alt="Medium Social Icon"/></a>
           </div>
         </div>
       </div>

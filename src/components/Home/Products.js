@@ -16,7 +16,7 @@ const Products = () => {
           <div className="md:ml-12">
             <h3 className="text-4xl font-display mt-4 md:mt-0">Go.Social</h3>
             <p className="mt-4 text-lg">Inspiring humans to take on a digital journey of their lifetime. A platform where you learn, explore, create, and grow as a creative individual.</p>
-            <a className="mt-8 inline-block underline font-bold" href="https://gosocialapp.co" target="_new">LET’S GO</a>
+            <a className="mt-8 inline-block underline font-bold" href="https://gosocialapp.co" target="_blank">LET’S GO</a>
           </div>
         </div>
 
@@ -26,7 +26,7 @@ const Products = () => {
           <div className="md:ml-12">
             <h3 className="text-4xl font-display mt-4 md:mt-0">1Ramp.io</h3>
             <p className="mt-4 text-lg">Social media platform for creative communities. Where creators earn cryptocurrency for every like they get. Powered by <a className="font-bold underline" href="https://steem.com">Steem</a> Blockchain.</p>
-            <div>Available for <a className="mt-8 inline-block underline font-bold" href="https://play.google.com/store/apps/details?id=com.hapramp&hl=en_IN" target="_new">Android</a> and <a className="mt-8 inline-block underline font-bold" href="https://alpha.1ramp.io" target="_new">Web</a></div>
+            <div>Available for <a className="mt-8 inline-block underline font-bold" href="https://play.google.com/store/apps/details?id=com.hapramp&hl=en_IN" target="_blank">Android</a> and <a className="mt-8 inline-block underline font-bold" href="https://alpha.1ramp.io" target="_blank">Web</a></div>
           </div>
         </div>
 
@@ -36,7 +36,7 @@ const Products = () => {
           <div className="md:ml-12">
             <h3 className="text-4xl font-display mt-4 md:mt-0">Asteria Protocol</h3>
             <p className="mt-4 text-lg">New standard to treat and store user data that makes privacy and security accessible to all.</p>
-            <Link className="mt-8 inline-block underline font-bold" to="/asteria" target="_new">LEARN MORE</Link>
+            <Link className="mt-8 inline-block underline font-bold" to="/asteria" target="_blank">LEARN MORE</Link>
           </div>
         </div>
 
