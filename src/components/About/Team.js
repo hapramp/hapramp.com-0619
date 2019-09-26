@@ -12,7 +12,7 @@ const Team = () => {
           {MemberData.map(member => {
             return (<Member key={member.link} member={member}/>)
           })
-          }
+}
         </div>
       </div>
     </section>

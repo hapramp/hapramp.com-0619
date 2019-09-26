@@ -15,7 +15,8 @@ const mentors = [
 
 const Mentors = () => {
   return (
-    <section className="mentors text-center sm:text-left mt-20 px-4 sm:px-8 md:px-10">
+    <section
+      className="mentors text-center sm:text-left mt-20 px-4 sm:px-8 md:px-10">
       <div className="max-w-5xl mx-auto">
         <h2 className="font-display text-4xl text-primary font-bold">Mentor</h2>
         <div className="flex flex-wrap justify-center sm:justify-start -ml-16 mt-20">

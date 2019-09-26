@@ -7,7 +7,8 @@
   "author": "Mofid Ansari",
   "dependencies": {
     "react": "^16.8.6",
-    "react-dom": "^16.8.6"
+    "react-dom": "^16.8.6",
+    "react-router-dom": "^5.1.0"
   },
   "devDependencies": {
     "autoprefixer": "^9.6.0",
