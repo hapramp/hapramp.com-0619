@@ -26,7 +26,7 @@ const Products = () => {
           <div className="md:ml-12">
             <h3 className="text-4xl font-display">1Ramp.io</h3>
             <p className="mt-4 text-lg">Social media platform for creative communities. Where creators earn cryptocurrency for every like they get. Powered by <a className="font-bold underline" href="https://steem.com">Steem</a> Blockchain.</p>
-            <div>Available for <a className="mt-8 inline-block underline font-bold" href="https://gosocialapp.co" target="_new">Android</a> and <a className="mt-8 inline-block underline font-bold" href="https://gosocialapp.co" target="_new">Web</a></div>
+            <div>Available for <a className="mt-8 inline-block underline font-bold" href="https://play.google.com/store/apps/details?id=com.hapramp&hl=en_IN" target="_new">Android</a> and <a className="mt-8 inline-block underline font-bold" href="https://alpha.1ramp.io" target="_new">Web</a></div>
           </div>
         </div>
 
@@ -36,7 +36,7 @@ const Products = () => {
           <div className="md:ml-12">
             <h3 className="text-4xl font-display">Asteria Protocol</h3>
             <p className="mt-4 text-lg">New standard to treat and store user data that makes privacy and security accessible to all.</p>
-            <a className="mt-8 inline-block underline font-bold" href="https://gosocialapp.co" target="_new">LEARN MORE</a>
+            <Link className="mt-8 inline-block underline font-bold" to="/asteria" target="_new">LEARN MORE</Link>
           </div>
         </div>
 

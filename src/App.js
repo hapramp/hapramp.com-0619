@@ -8,6 +8,7 @@ import Footer from './components/Layout/Footer';
 
 import Home from './components/Home';
 import About from './components/About';
+import Work from './components/Work';
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
           <Route exact path="/" component={Home}/>
           <Route path="/asteria" component={Asteria}/>
           <Route path="/about" component={About} />
+          <Route path="/work" component={Work} />
         </Switch>
         <Footer />
       </BrowserRouter>
