@@ -1,35 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "aaed0f5fd1bf0464d5eed4b5cc7e0037",
+    "revision": "69f854a211f5628dad6c9ecb4716cddb",
     "url": "/index.html"
   },
   {
-    "revision": "6c72835b7e74862d3bed",
-    "url": "/static/css/main.4e609065.chunk.css"
+    "revision": "7e9a43ca493ef8313320",
+    "url": "/static/css/main.7b4f2b86.chunk.css"
   },
   {
-    "revision": "86a352f4cd3ec4ffa017",
-    "url": "/static/js/2.f674805f.chunk.js"
+    "revision": "7e143af999f1a2d7658e",
+    "url": "/static/js/2.8927b48d.chunk.js"
   },
   {
-    "revision": "6c72835b7e74862d3bed",
-    "url": "/static/js/main.305d98fd.chunk.js"
+    "revision": "7e9a43ca493ef8313320",
+    "url": "/static/js/main.9512b491.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
     "url": "/static/js/runtime~main.a8a9905a.js"
   },
   {
+    "revision": "a6d1feb54c994d7516a54b37b9299ba4",
+    "url": "/static/media/1ramp.a6d1feb5.jpg"
+  },
+  {
     "revision": "958a01f704004193f4e7f6387c195b35",
     "url": "/static/media/ankit_hapramp.958a01f7.jpg"
   },
   {
-    "revision": "5b4b33fa68c6df2bda4f13600e88e9d8",
-    "url": "/static/media/bg-app.5b4b33fa.png"
+    "revision": "67e5b86898367408021fd121bd0ff1ce",
+    "url": "/static/media/asteria.67e5b868.jpg"
   },
   {
-    "revision": "d4f663508c83b2a2dda74e129e4ebbe3",
-    "url": "/static/media/hiring.d4f66350.svg"
+    "revision": "45132d4af629f987987b279a21759746",
+    "url": "/static/media/gosocial.45132d4a.jpg"
+  },
+  {
+    "revision": "12015b45e7c6aedbcd2a3abde41baa5e",
+    "url": "/static/media/huddle.12015b45.jpg"
   },
   {
     "revision": "2d1404abd2076c62d252b5f8a98190a9",
@@ -44,16 +52,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/linkedin.271d6b7f.svg"
   },
   {
+    "revision": "96a081d47aff68015e7bce06a29dbde5",
+    "url": "/static/media/medium.96a081d4.svg"
+  },
+  {
     "revision": "ed268187a3f1fa3f9e5d695e83023004",
     "url": "/static/media/mofid_hapramp.ed268187.jpg"
   },
   {
     "revision": "856ad858e821495cd0de408385999a1b",
     "url": "/static/media/nascomm.856ad858.png"
-  },
-  {
-    "revision": "8e9f56a5f78b717f177239f6c4a25a3a",
-    "url": "/static/media/oneRamp.8e9f56a5.png"
   },
   {
     "revision": "5169dcad50bbf37ca7f2f1ca8e5b0157",
