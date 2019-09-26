@@ -2,9 +2,12 @@ import React from 'react';
 import {BrowserRouter, Switch, Route} from 'react-router-dom';
 import './App.css';
 import Asteria from './components/Asteria';
-import Home from './components/Home';
+
 import Header from './components/Layout/Header';
 import Footer from './components/Layout/Footer';
+
+import Home from './components/Home';
+import About from './components/About';
 
 function App() {
   return (
@@ -14,6 +17,7 @@ function App() {
         <Switch>
           <Route exact path="/" component={Home}/>
           <Route path="/asteria" component={Asteria}/>
+          <Route path="/about" component={About} />
         </Switch>
         <Footer />
       </BrowserRouter>
