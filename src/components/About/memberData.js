@@ -13,7 +13,7 @@ const data = [
   },
   {
     name: 'Pratyush Singh',
-    designation: 'Blockchain Engineer',
+    designation: 'Tech Lead',
     link: "https://www.linkedin.com/in/singh-pratyush/",
     pic: pratyush
   },
