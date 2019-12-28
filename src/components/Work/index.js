@@ -15,7 +15,7 @@ const index = () => {
           <img className="mt-16" src={huddle} alt="Huddle Coworking Space"/>
           <a className="mt-4 inline-block underline text-lg" href="https://goo.gl/maps/1ACy94KcPCQoc35NA" target="_new">Office Location: Huddle.Work, Building no. 5, DLF Cyber City, Gurugram.</a>
         </div>
-        <div className="text-xl sm:text-2xl md:text-3xl font-display">See open roles on <a className="mt-8 inline-block underline font-bold" href="https://angel.co/company/hapramp/jobs" target="_blank">AngelList</a> or <a className="mt-8 inline-block underline font-bold" href="https://www.linkedin.com/company/hapramp/jobs" target="_blank">LinkedIn</a></div>
+        <div className="text-xl sm:text-2xl md:text-3xl font-display">See open roles on <a rel="noopener noreferrer" className="mt-8 inline-block underline font-bold" href="https://angel.co/company/hapramp/jobs" target="_blank">AngelList</a> or <a rel="noopener noreferrer" className="mt-8 inline-block underline font-bold" href="https://www.linkedin.com/company/hapramp/jobs" target="_blank">LinkedIn</a></div>
       </div>
       
     </section>
