@@ -6,9 +6,17 @@
   "description": "Repository for hapramp.com website",
   "author": "Mofid Ansari",
   "dependencies": {
+    "eslint-utils": "^1.4.1",
+    "handlebars": "^4.3.0",
+    "js-yaml": "^3.13.1",
+    "lodash": "^4.17.12",
+    "lodash.template": "^4.5.0",
+    "mixin-deep": "^1.3.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-router-dom": "^5.1.0"
+    "react-router-dom": "^5.1.0",
+    "serialize-javascript": "^2.1.1",
+    "set-value": "^2.0.1"
   },
   "devDependencies": {
     "autoprefixer": "^9.6.0",
