@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5feeef2623438ca783d9bd0108fa8c08",
+    "revision": "48706941f357206920ead5ff23c4cabf",
     "url": "/index.html"
   },
   {
-    "revision": "07da4cbafa1325ddd5ea",
-    "url": "/static/css/main.7b4f2b86.chunk.css"
+    "revision": "df45e3e3c8dd12db6454",
+    "url": "/static/css/main.81449671.chunk.css"
   },
   {
-    "revision": "3c50709a36cd97f06563",
-    "url": "/static/js/2.2cee2077.chunk.js"
+    "revision": "42bf4acb9dc4b424a249",
+    "url": "/static/js/2.d58bd1fd.chunk.js"
   },
   {
-    "revision": "07da4cbafa1325ddd5ea",
-    "url": "/static/js/main.08a4f1a9.chunk.js"
+    "revision": "df45e3e3c8dd12db6454",
+    "url": "/static/js/main.d697b647.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -24,8 +24,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/1ramp.a6d1feb5.jpg"
   },
   {
+    "revision": "b5a0330f86ec4c02f2026011d468e692",
+    "url": "/static/media/aayushi_hapramp.b5a0330f.jpg"
+  },
+  {
     "revision": "958a01f704004193f4e7f6387c195b35",
     "url": "/static/media/ankit_hapramp.958a01f7.jpg"
+  },
+  {
+    "revision": "43b46b4c9f8a1f847a2ba5fcfdb89e2f",
+    "url": "/static/media/anmol_hapramp.43b46b4c.jpg"
   },
   {
     "revision": "67e5b86898367408021fd121bd0ff1ce",
@@ -46,6 +54,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "eed91d14dcfbaa28ed0907b3d234095a",
     "url": "/static/media/jaspreet.eed91d14.jpg"
+  },
+  {
+    "revision": "0c1319d8b3705af784af06a8db5df6a7",
+    "url": "/static/media/kushagra_hapramp.0c1319d8.jpg"
   },
   {
     "revision": "271d6b7fd7885d7e34ccd5afefd90520",
