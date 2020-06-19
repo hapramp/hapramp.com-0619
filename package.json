@@ -6,7 +6,7 @@
   "description": "Repository for hapramp.com website",
   "author": "Mofid Ansari",
   "dependencies": {
-    "eslint-utils": "^1.4.1",
+    "eslint-utils": "^2.1.0",
     "handlebars": "^4.3.0",
     "js-yaml": "^3.13.1",
     "lodash": "^4.17.12",
