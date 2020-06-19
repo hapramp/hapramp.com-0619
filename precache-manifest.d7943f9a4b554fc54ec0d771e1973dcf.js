@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "48706941f357206920ead5ff23c4cabf",
+    "revision": "f9393156064dda2694022e43e84659f0",
     "url": "/index.html"
   },
   {
-    "revision": "df45e3e3c8dd12db6454",
+    "revision": "e690ecd2ebf29cf4968e",
     "url": "/static/css/main.81449671.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.d58bd1fd.chunk.js"
   },
   {
-    "revision": "df45e3e3c8dd12db6454",
-    "url": "/static/js/main.d697b647.chunk.js"
+    "revision": "e690ecd2ebf29cf4968e",
+    "url": "/static/js/main.4548991f.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -38,10 +38,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "67e5b86898367408021fd121bd0ff1ce",
     "url": "/static/media/asteria.67e5b868.jpg"
-  },
-  {
-    "revision": "45132d4af629f987987b279a21759746",
-    "url": "/static/media/gosocial.45132d4a.jpg"
   },
   {
     "revision": "12015b45e7c6aedbcd2a3abde41baa5e",
