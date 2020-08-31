@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.81449671.chunk.css",
-    "main.js": "/static/js/main.4548991f.chunk.js",
-    "main.js.map": "/static/js/main.4548991f.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.d58bd1fd.chunk.js": "/static/js/2.d58bd1fd.chunk.js",
-    "static/js/2.d58bd1fd.chunk.js.map": "/static/js/2.d58bd1fd.chunk.js.map",
+    "main.css": "/static/css/main.ffcf32aa.chunk.css",
+    "main.js": "/static/js/main.02d0248b.chunk.js",
+    "main.js.map": "/static/js/main.02d0248b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.4a02bdad.js",
+    "runtime-main.js.map": "/static/js/runtime-main.4a02bdad.js.map",
+    "static/js/2.c526ee4e.chunk.js": "/static/js/2.c526ee4e.chunk.js",
+    "static/js/2.c526ee4e.chunk.js.map": "/static/js/2.c526ee4e.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.d7943f9a4b554fc54ec0d771e1973dcf.js": "/precache-manifest.d7943f9a4b554fc54ec0d771e1973dcf.js",
+    "precache-manifest.9ad528dfebe44752aeae473816c0c40d.js": "/precache-manifest.9ad528dfebe44752aeae473816c0c40d.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.81449671.chunk.css.map": "/static/css/main.81449671.chunk.css.map",
+    "static/css/main.ffcf32aa.chunk.css.map": "/static/css/main.ffcf32aa.chunk.css.map",
+    "static/js/2.c526ee4e.chunk.js.LICENSE.txt": "/static/js/2.c526ee4e.chunk.js.LICENSE.txt",
     "static/media/1ramp.jpg": "/static/media/1ramp.a6d1feb5.jpg",
     "static/media/aayushi_hapramp.jpg": "/static/media/aayushi_hapramp.b5a0330f.jpg",
     "static/media/ankit_hapramp.jpg": "/static/media/ankit_hapramp.958a01f7.jpg",
-    "static/media/anmol_hapramp.jpg": "/static/media/anmol_hapramp.43b46b4c.jpg",
+    "static/media/anmol_hapramp.jpg": "/static/media/anmol_hapramp.4bf3c31e.jpg",
     "static/media/asteria.jpg": "/static/media/asteria.67e5b868.jpg",
     "static/media/huddle.jpg": "/static/media/huddle.12015b45.jpg",
     "static/media/iiitv.png": "/static/media/iiitv.2d1404ab.png",
@@ -28,5 +29,11 @@
     "static/media/rajat_hapramp.jpg": "/static/media/rajat_hapramp.b96f5b57.jpg",
     "static/media/twitter.svg": "/static/media/twitter.ef0820dc.svg",
     "static/media/vikram_hapramp.jpg": "/static/media/vikram_hapramp.752dbd7c.jpg"
-  }
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a02bdad.js",
+    "static/js/2.c526ee4e.chunk.js",
+    "static/css/main.ffcf32aa.chunk.css",
+    "static/js/main.02d0248b.chunk.js"
+  ]
 }
