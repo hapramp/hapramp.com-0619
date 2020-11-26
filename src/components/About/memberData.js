@@ -9,14 +9,14 @@ import kushagra from './img/team/kushagra_hapramp.jpg';
 
 const data = [
   {
-    name: 'Shubhendra Vikram',
-    designation: 'Business Development',
+    name: 'CEO and Founder',
+    designation: 'CEO and Founder',
     link: "https://www.linkedin.com/in/shubhendravikram/",
     pic: vikram
   },
   {
     name: 'Pratyush Singh',
-    designation: 'Tech Lead',
+    designation: 'CTO and Co-founder',
     link: "https://www.linkedin.com/in/singh-pratyush/",
     pic: pratyush
   },
@@ -28,13 +28,13 @@ const data = [
   },
   {
     name: 'Mofid Ansari',
-    designation: 'UI/UX Designer',
+    designation: 'Head of Design and Co-founder',
     link: "https://www.linkedin.com/in/ansarimofid/",
     pic: mofid
   },
   {
     name: 'Rajat Dangi',
-    designation: 'Brand Strategist',
+    designation: 'Head of Marketing and Co-founder',
     link: "https://www.linkedin.com/in/rajatdangi",
     pic: rajat
   },
@@ -55,7 +55,25 @@ const data = [
     designation: 'Business Strategist',
     link: "https://www.linkedin.com/in/kushagrasingh1/",
     pic: kushagra
-  }
+  },
+  {
+    name: 'Saunik Singh',
+    designation: 'Lead Android Developer',
+    link: "https://www.linkedin.com/in/saunik-singh-35aa042b/",
+    pic: require(`./img/team/saunik_hapramp.jpg`)
+  },
+  {
+    name: 'Ankur Gupta',
+    designation: 'Android Developer',
+    link: "https://www.linkedin.com/in/ankurg22/",
+    pic: require(`./img/team/ankur_hapramp.jpg`)
+  },
+  {
+    name: 'Piyush Pawar',
+    designation: 'Front end developer',
+    link: "https://www.linkedin.com/in/piyush-pawar/ ",
+    pic: require(`./img/team/piyush_hapramp.jpg`)
+  },
 ]
 
 export default data;

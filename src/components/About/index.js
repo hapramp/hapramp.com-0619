@@ -1,6 +1,7 @@
 import React from 'react';
 import Team from './Team';
 import Mentors from './Mentors';
+import Investors from './Investors';
 import Associations from './Associations';
 
 const index = () => {
@@ -8,6 +9,7 @@ const index = () => {
     <div>
       <Team />
       <Mentors />
+      <Investors />
       <Associations />
     </div>
   );

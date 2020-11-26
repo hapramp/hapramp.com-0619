@@ -37,7 +37,7 @@ export default class Press extends Component {
         <div className="flex flex-wrap items-center justify-start mt-10 sm:mt-12 md:mt-16">
           {press.map(pr => {
             return (
-              <a key={pr.link} href={pr.link}  target="_blank" className="mr-8 mt-5 sm:mt-0 mb-8">
+              <a key={pr.link} href={pr.link} rel="noopener noreferrer"  target="_blank" className="mr-8 mt-5 sm:mt-0 mb-8">
                 <img src={pr.pic} alt={pr.name}/>
               </a>
             )

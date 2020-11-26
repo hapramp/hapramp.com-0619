@@ -1,15 +1,9 @@
 import React from 'react';
 
 import iiitv from './img/associations/iiitv.png';
-import huddle from './img/associations/huddle.png';
 import nasscom from './img/associations/nascomm.png';
 
-const associations = [
-  {
-    name: 'Huddle',
-    link: 'http://huddle.work/',
-    pic: huddle
-  }, {
+const associations = [{
     name: 'Nasscom',
     link: 'http://www.10000startups.com/',
     pic: nasscom
