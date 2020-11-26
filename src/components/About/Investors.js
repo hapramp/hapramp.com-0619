@@ -6,13 +6,13 @@ const mentors = [
   {
     name: 'Anand Mahindra',
     designation: 'Chairman, Mahindra Group',
-    link: "https://www.linkedin.com/in/jaspreetbindra/",
+    link: "https://twitter.com/anandmahindra/",
     pic: require('./img/anand_ji.jpg')
   },
   {
     name: 'Huddle',
     designation: 'Startup Accelerator',
-    link: "https://www.linkedin.com/company/huddleincubation/",
+    link: "https://huddle.work/",
     pic: require('./img/associations/huddle.jpg')
   },
 ];
@@ -20,10 +20,10 @@ const mentors = [
 const Mentors = () => {
   return (
     <section
-      className="mentors text-center sm:text-left mt-20 px-4 sm:px-8 md:px-10">
+      className="text-center sm:text-left mt-10 px-4 sm:px-8 md:px-10">
       <div className="max-w-4xl mx-auto">
         <h2 className="text-xl uppercase font-bold">Investors</h2>
-        <div className="flex flex-wrap justify-center sm:justify-start -ml-16 mt-20">
+        <div className="flex flex-wrap justify-center sm:justify-start sm:-ml-12 lg:-ml-12 mt-20">
           {mentors.map(member => {
             return (<Member key={member.link} member={member}/>)
           })

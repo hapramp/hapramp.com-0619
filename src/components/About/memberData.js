@@ -9,7 +9,7 @@ import kushagra from './img/team/kushagra_hapramp.jpg';
 
 const data = [
   {
-    name: 'CEO and Founder',
+    name: 'Shubhendra Vikram',
     designation: 'CEO and Founder',
     link: "https://www.linkedin.com/in/shubhendravikram/",
     pic: vikram

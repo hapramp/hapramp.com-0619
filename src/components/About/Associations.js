@@ -16,7 +16,7 @@ const associations = [{
 
 const Associations = () => {
   return (
-    <section className="mt-16 px-4 sm:px-8 md:px-10 text-center sm:text-left mb-20">
+    <section className="mt-10 px-4 sm:px-8 md:px-10 text-center sm:text-left mb-20">
       <div className="max-w-4xl mx-auto">
         <h2 className="text-xl uppercase font-bold">Associations</h2>
         <div className="flex flex-wrap justify-center sm:justify-start mt-20">
