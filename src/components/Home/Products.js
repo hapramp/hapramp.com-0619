@@ -16,7 +16,7 @@ const Products = () => {
           <div className="md:ml-12">
             <h3 className="text-4xl font-display mt-4 md:mt-0">GoSocial</h3>
             <p className="mt-4 text-lg">Empowering individuals and creators to turn their passion into income. GoSocial’s creator stack gives you the freedom to do more with your passion.</p>
-            <div>Available on <a className="mt-8 inline-block underline font-bold" rel="noopener noreferrer" href="https://play.google.com/store/apps/details?id=com.go.social.prod&hl=en_IN" target="_blank">Android</a></div>
+            <div>Available on <a className="mt-8 inline-block underline font-bold" rel="noopener noreferrer" href="https://play.google.com/store/apps/details?id=com.go.social.prod&hl=en_IN" target="_blank"> Android</a> and <a rel="noopener noreferrer" className="mt-8 inline-block underline font-bold" href="http://gosocial.io/" target="_blank">Web</a></div>
           </div>
         </div>
 
@@ -26,7 +26,7 @@ const Products = () => {
           <div className="md:ml-12">
             <h3 className="text-4xl font-display mt-4 md:mt-0">Flips</h3>
             <p className="mt-4 text-lg">Flips is a tool for writers that enables you to turn your poems, quotes, and tales into aesthetic looking posts and stories.</p>
-            <div>Available on <a className="mt-8 inline-block underline font-bold" rel="noopener noreferrer" href="https://play.google.com/store/apps/details?id=com.gosocial.flips&ref=producthunt" target="_blank">Android</a> and <a rel="noopener noreferrer" className="mt-8 inline-block underline font-bold" href="https://alpha.1ramp.io" target="_blank">Web</a></div>
+            <div>Available on <a className="mt-8 inline-block underline font-bold" rel="noopener noreferrer" href="https://play.google.com/store/apps/details?id=com.gosocial.flips&ref=producthunt" target="_blank">Android</a></div>
           </div>
         </div>
 
@@ -35,8 +35,8 @@ const Products = () => {
           <img src={oneramp} alt="1ramp App Logo" />
           <div className="md:ml-12">
             <h3 className="text-4xl font-display mt-4 md:mt-0">1Ramp.io</h3>
-            <p className="mt-4 text-lg">Social media platform for creative communities. Where creators earn cryptocurrency for every like they get. Powered by <a className="font-bold underline" href="https://steem.com">Steem</a> Blockchain.</p>
-            <div>Available for <a className="mt-8 inline-block underline font-bold" rel="noopener noreferrer" href="https://play.google.com/store/apps/details?id=com.hapramp&hl=en_IN" target="_blank">Android</a> and <a rel="noopener noreferrer" className="mt-8 inline-block underline font-bold" href="https://alpha.1ramp.io" target="_blank">Web</a></div>
+            <p className="mt-4 text-lg">Social media platform for creative communities. Where creators earn cryptocurrency for every like they get. Powered by <a className="font-bold underline" rel="noopener noreferrer" target="_blank" href="https://steem.com">Steem</a> Blockchain.</p>
+            <div>Available on <a rel="noopener noreferrer" className="mt-8 inline-block underline font-bold" href="https://alpha.1ramp.io" target="_blank">Web</a></div>
           </div>
         </div>
 
