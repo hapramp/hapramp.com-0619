@@ -17,6 +17,7 @@ const Products = () => {
             <h3 className="text-4xl font-display mt-4 md:mt-0">GoSocial</h3>
             <p className="mt-4 text-lg">Empowering individuals and creators to turn their passion into income. GoSocial’s creator stack gives you the freedom to do more with your passion.</p>
             <div>Available on <a className="mt-8 inline-block underline font-bold" rel="noopener noreferrer" href="https://play.google.com/store/apps/details?id=com.go.social.prod&hl=en_IN" target="_blank"> Android</a> and <a rel="noopener noreferrer" className="mt-8 inline-block underline font-bold" href="http://gosocial.io/" target="_blank">Web</a></div>
+            <div><a className="mt-4 inline-block underline font-bold uppercase" rel="noopener noreferrer" href="https://about.gosocial.io/creators" target="_blank">Get Early Access for Creator Stack</a></div>
           </div>
         </div>
 
