@@ -34,13 +34,13 @@ const data = [
   },
   {
     name: 'Rajat Dangi',
-    designation: 'Head of Marketing and Co-founder',
+    designation: 'Product Head and Co-Founder',
     link: "https://www.linkedin.com/in/rajatdangi",
     pic: rajat
   },
   {
     name: 'Aayushi Rachana',
-    designation: 'Marketing & Communication \nManager',
+    designation: 'Head of Marketing',
     link: "https://www.linkedin.com/in/aayushirachana/",
     pic: aayushi
   },
@@ -71,8 +71,26 @@ const data = [
   {
     name: 'Piyush Pawar',
     designation: 'Front end developer',
-    link: "https://www.linkedin.com/in/piyush-pawar/ ",
+    link: "https://www.linkedin.com/in/piyush-pawar/",
     pic: require(`./img/team/piyush_hapramp.jpg`)
+  },
+  {
+    name: 'Hitendra Dubey',
+    designation: 'iOS Engineer',
+    link: "https://www.linkedin.com/in/hitendra9795/",
+    pic: require(`./img/team/hitendra.jpg`)
+  },
+  {
+    name: 'Rucha Deshpande',
+    designation: 'Backend Engineer',
+    link: "https://www.linkedin.com/in/cha1690/",
+    pic: require(`./img/team/rucha.jpg`)
+  },
+  {
+    name: 'Srishti Mishra',
+    designation: 'Social Media Executive',
+    link: "https://www.linkedin.com/in/srishti-mishra-b3ab621b3/",
+    pic: require(`./img/team/srishti.jpg`)
   },
 ]
 
